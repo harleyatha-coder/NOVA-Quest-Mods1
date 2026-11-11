@@ -1,0 +1,2 @@
+# NOVA-Quest-Mods1
+STANDALONE
